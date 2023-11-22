@@ -1,6 +1,5 @@
 import Link from "next/link";
 
-
 export default function Navbar() {
   return (
     <nav>
@@ -20,7 +19,6 @@ export default function Navbar() {
         <Link href='/course'>
         <li>Courses</li>
         </Link>
-
 
         </ul>
     </nav>
