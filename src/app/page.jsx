@@ -1,7 +1,8 @@
+import Main from "./components/Main"
 export default function Home() {
   return (
-    <main>page
-      
+    <main>
+     <Main/>
     </main>
   )
 }
